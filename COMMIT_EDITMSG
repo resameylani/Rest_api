@@ -1,0 +1,21 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   app/Http/Kernel.php
+#	modified:   app/Models/User.php
+#	modified:   resources/js/bootstrap.js
+#	modified:   routes/api.php
+#	modified:   routes/web.php
+#	modified:   vite.config.js
+#
+# Untracked files:
+#	app/Http/Controllers/ApiController.php
+#	app/Http/Middleware/Checkrole.php
+#	app/Http/Middleware/user.php
+#	package-lock.json
+#
